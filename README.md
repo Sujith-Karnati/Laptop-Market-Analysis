@@ -66,7 +66,8 @@ The project demonstrates the complete data analytics lifecycle:
 Laptop-Market-Analysis/
 │
 ├── Laptop_Market_Analysis.ipynb
-├── laptop_data.csv
+├── Scraped_Data.xls
+├── Cleaned_Data.xls
 ├── README.md
 ├── requirements.txt
 └── images/
